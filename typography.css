@@ -1,0 +1,74 @@
+html{
+    font: 14px 1/5 "Manrope", sans-serif;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+p {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:"slnt" 0;
+}
+
+.button {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 0;
+  font-style: normal;
+  font-variation-settings:"slnt" 0;
+
+  background-color: #2E2EC8;
+  border-radius: 2em;
+  color: white;
+  padding: 1em;
+  text-decoration: none;
+  width: 13em;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.button a{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: white;
+    text-decoration: none;
+    margin-right: 0.5em;
+}
+
+
+.button-2 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 0;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+  
+    background-color: #ffffff;
+    border: 1px solid #2E2EC8;
+    border-radius: 2em;
+    padding: 1em;
+    text-decoration: none;
+    width: 13em;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
+  
+  .button-2 a{
+      font-family: "Inter", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 700;
+      font-style: normal;
+      font-variation-settings:"slnt" 0;
+      color: #2E2EC8;
+      text-decoration: none;
+      margin-right: 0.5em;
+  }
